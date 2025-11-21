@@ -9,7 +9,11 @@
             <div class="logo-main">天府新区 公园城市</div>
             <div class="logo-sub">TIANFU NEW AREA</div>
             <div class="logo-tagline">THE FIRST SITE OF THE PARK CITY</div>
+<<<<<<< HEAD
             <div class="logo-bottom">智慧政务B-我吱吱吱吱</div>
+=======
+            <div class="logo-bottom">智慧政务B—我也加一段</div>
+>>>>>>> c97d683 (add-我也)
           </div>
         </div>
       </div>
