@@ -9,7 +9,7 @@
             <div class="logo-main">天府新区 公园城市</div>
             <div class="logo-sub">TIANFU NEW AREA</div>
             <div class="logo-tagline">THE FIRST SITE OF THE PARK CITY</div>
-            <div class="logo-bottom">智慧政务</div>
+            <div class="logo-bottom">智慧政务B</div>
           </div>
         </div>
       </div>
